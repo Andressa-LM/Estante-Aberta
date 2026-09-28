@@ -1,0 +1,14 @@
+.cottage-header {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 240px;
+  width: 100%;
+  border-bottom: 2px solid var(--cottage-border);
+}
+
+@media (max-width: 768px) {
+  .cottage-header {
+    height: 150px;
+  }
+}

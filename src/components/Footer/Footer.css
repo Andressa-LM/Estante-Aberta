@@ -1,0 +1,27 @@
+.cottage-footer {
+  background-color: #eaddc7;
+  color: #3b4d3c;
+  text-align: center;
+  padding: 24px 20px;
+  margin-top: auto;
+  border-top: 2px solid #d5c5aa;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.cottage-footer p {
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.footer-sub {
+  font-size: 0.85rem;
+  color: #5c6b5e;
+  font-style: italic;
+}
